@@ -13,11 +13,17 @@
  un serveur local ou en ligne selon votre preferences(xampp,wampp,firebase,...)
  module python (MYSQLdb,flask,...)
 
+ HOW TO RUN
+
+ installer les differente library importer
+ appuyer F5 et entrer web_server.py
+
 LANGUAGE USE
+
 html & css
 python
 
 merci de consulter mon travail 
-pour des question ou suggestion veullez me contacter sur gmail
+pour des question ou suggestion veullez m'ecrire par mail
  djialanelson@gmail.com
   
