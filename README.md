@@ -1,7 +1,7 @@
 # loginpage_flask
   SUMMARY
   
-  mon projet portaie sur la creation de page de login avec flask 
+  mon projet portait sur la creation de page de login avec flask 
   pour ce faire j'ai utilisè le html&css comme basse pour mes pages
   ensuite xampp comme base de donnees pour le controle d'authentification
   et de creation de compte enfin j'ai utilisè flask pour la connection et 
